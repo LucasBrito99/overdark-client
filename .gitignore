@@ -13,7 +13,7 @@ ErrorLog.txt
 /*.exe
 
 !/config.exe
-!/Metin2.exe
+!/OverDark.exe
 
 # =======================================================
 # FULLY CASE-INSENSITIVE BACKUP EXCLUSIONS
